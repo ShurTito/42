@@ -46,12 +46,15 @@
 
 ```bash
 make
+```
 
 <p>Esto generará el ejecutable <code>minishell</code> que podrá ser ejecutado desde la terminal.</p> <p>Ejemplo de uso:</p>
 ./minishell
 
 <p>Luego podrás escribir comandos como:</p>
 
+```bash
 ls -l | grep minishell > salida.txt
 cd ..
 echo "Hola mundo"
+```
