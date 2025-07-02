@@ -20,3 +20,8 @@ El desafío incluye implementar desde cero las operaciones permitidas (sa, pb, r
 
 # 🧪 Compilación
 <p>El proyecto se compila mediante el Makefile. Se generan los ejecutables `push_swap` y `checker`.</p>
+
+```bash
+make
+./push_swap "1 42 7 23 4 99 74"
+```
