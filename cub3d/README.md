@@ -24,4 +24,4 @@ make
 ```bash
 ./cub3d maps/map.cub
 ```
-<p>Donde <code>mapa.cub</code> es un archivo de texto con la configuración del mapa del juego.</p>
+<p>Donde <code>map.cub</code> es un archivo de texto con la configuración del mapa del juego.</p>
