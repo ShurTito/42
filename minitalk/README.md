@@ -20,5 +20,8 @@ Este ejercicio permite explorar cómo funcionan las señales en Unix, cómo cont
 
 # 🧪 Compilación
 <p>Esto generará dos ejecutables: server y client.</p>
-<p>./server</p>
-<p>./client <PID_del_servidor> "mensaje a enviar"</p>
+
+```bash
+./server
+./client <PID_del_servidor> "mensaje a enviar"
+```
