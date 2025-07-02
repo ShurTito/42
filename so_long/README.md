@@ -14,3 +14,8 @@
 
 # 🧪 Compilación
 <p>Compilar el proyecto requiere MiniLibX. Se recomienda trabajar sobre sistemas compatibles como Linux o macOS con X11 instalado. El Makefile gestiona las dependencias y la compilación del binario principal.</p>
+ 
+```bash
+make
+./so_long ./maps/map1.ber
+```
